@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to Python",
+      "body": "Python is a popular programming language used for web development and data analysis."
+    },
+    {
+      "id": 2,
+      "title": "The Benefits of Exercise",
+      "body": "Exercise has many benefits including improved mood, increased energy levels, and better sleep quality."
+    },
+    {
+      "id": 3,
+      "title": "The Importance of Time Management",
+      "body": "Effective time management is crucial for achieving personal and professional goals."
+    },
+    {
+      "id": 4,
+      "title": "How to Make a Delicious Smoothie",
+      "body": "A healthy smoothie can be made with fruit, yogurt, and milk in just a few easy steps."
+    },
+    {
+      "id": 5,
+      "title": "The Basics of Photography",
+      "body": "Understanding aperture, shutter speed, and ISO is essential for taking great photos."
+    },
+    {
+      "id": 6,
+      "title": "The Benefits of Meditation",
+      "body": "Meditation has been shown to reduce stress, improve focus, and increase feelings of well-being."
+    },
+    {
+      "id": 7,
+      "title": "How to Plan a Budget",
+      "body": "Creating a budget involves tracking expenses, setting financial goals, and prioritizing spending."
+    },
+    {
+      "id": 8,
+      "title": "The Advantages of Learning a Second Language",
+      "body": "Learning a second language has many benefits including improved cognitive abilities and expanded career opportunities."
+    },
+    {
+      "id": 9,
+      "title": "The Basics of Cooking",
+      "body": "Learning basic cooking techniques such as chopping, sautéing, and baking is essential for preparing delicious meals."
+    },
+    {
+      "id": 10,
+      "title": "The Importance of Sleep",
+      "body": "Getting enough sleep is crucial for maintaining physical and mental health, and improving overall quality of life."
+    },
+    {
+      "title": [
+        "coding a with React js"
+      ],
+      "body": [
+        "react js is a javascript library"
+      ],
+      "id": 11
+    }
+  ]
+}
